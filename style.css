@@ -7,8 +7,11 @@ body {
 section {
 	display: flex;
 	justify-content: center;
-	padding-top: 30px;
     flex-direction: column;
+}
+
+section button {
+	padding-top: 30px;
 }
 
 button {
