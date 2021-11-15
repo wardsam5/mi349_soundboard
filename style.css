@@ -13,4 +13,9 @@ section {
 
 button {
 	background-color: white;
+	padding-top: 10px;
+}
+
+h1 {
+	color: white;
 }
