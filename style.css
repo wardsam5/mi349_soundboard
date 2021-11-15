@@ -10,10 +10,6 @@ section {
     flex-direction: column;
 }
 
-section button {
-	padding-top: 30px;
-}
-
 button {
 	background-color: white;
 }
