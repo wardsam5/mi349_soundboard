@@ -1,5 +1,5 @@
-function playSound() {
+function playSound(sound) {
         var sound = new Audio();
-		sound.src = "boo.wav";
+		sound.src = sound;
 		sound.play();
 }
